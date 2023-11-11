@@ -17,12 +17,12 @@ Description
 App Evaluation
 [Evaluation of your app across the following attributes]
 
-**Category:** Environmental Engagement / Education
-**Mobile:** Primarily mobile-focused. The nature of the app (taking or uploading photos, Google Maps API) makes it inherently mobile-centric. Expansion to a web platform can be considered for community features or data review.
-**Story:** This app encourages users to explore and appreciate nature by gamifying the experience of photographing and identifying plants, animals, and insects. It's like a digital scavenger hunt that educates users about their local biodiversity. Imagine Pokémon Go, but for real-world nature exploration.
-**Market:** The app appeals to a wide range of users, including nature enthusiasts, hikers, families looking for educational outdoor activities, and schools. There's a growing interest in outdoor activities and environmental awareness, making this a timely and relevant app.
-**Habit:** Users are motivated to regularly use the app to discover new species and participate in challenges or community-driven events. The gamified elements (like earning badges, completing challenges) encourage repeated engagement.
-**Scope:** Initially, the app will focus on allowing users to upload photos of flora and fauna, which can then be identified either by community members or through integration with an existing identification API. Utilizing Google Maps API, it can show where different species were spotted, creating an interactive map of local biodiversity. The complexity of real-time photo capture and identification can be explored in future versions.
+- **Category:** Environmental Engagement / Education
+- **Mobile:** Primarily mobile-focused. The nature of the app (taking or uploading photos, Google Maps API) makes it inherently mobile-centric. Expansion to a web platform can be considered for community features or data review.
+- **Story:** This app encourages users to explore and appreciate nature by gamifying the experience of photographing and identifying plants, animals, and insects. It's like a digital scavenger hunt that educates users about their local biodiversity. Imagine Pokémon Go, but for real-world nature exploration.
+- **Market:** The app appeals to a wide range of users, including nature enthusiasts, hikers, families looking for educational outdoor activities, and schools. There's a growing interest in outdoor activities and environmental awareness, making this a timely and relevant app.
+- **Habit:** Users are motivated to regularly use the app to discover new species and participate in challenges or community-driven events. The gamified elements (like earning badges, completing challenges) encourage repeated engagement.
+- **Scope:** Initially, the app will focus on allowing users to upload photos of flora and fauna, which can then be identified either by community members or through integration with an existing identification API. Utilizing Google Maps API, it can show where different species were spotted, creating an interactive map of local biodiversity. The complexity of real-time photo capture and identification can be explored in future versions.
 
 Product Spec
 ### 1. User Stories (Required and Optional)
