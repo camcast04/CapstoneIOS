@@ -78,14 +78,14 @@ Educational Content and Tips
 **Login / Registration Screen**
 - Associated User Story: As a user, I want to create an account so that I can save my progress and have a personalized experience.
 
-** Home / Dashboard Screen**
+**Home / Dashboard Screen**
 - Associated User Story: As a user, I want to view a map of sightings to explore what others have discovered.
 
 **Photo Upload Screen**
 - Associated User Story: As a user, I want to upload photos of plants, animals, and bugs so that I can contribute to the biodiversity database.
   
 **Map Screen**
--Associated User Story: As a user, I want to tag the location of my sightings so that I can contribute to the map of local biodiversity.
+- Associated User Story: As a user, I want to tag the location of my sightings so that I can contribute to the map of local biodiversity.
 
 **Species Identification Screen**
 - Associated User Story: As a user, I want to get basic information or identification suggestions for my uploaded photos so that I can learn about the flora and fauna I’ve found.
