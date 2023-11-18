@@ -121,6 +121,8 @@ Schema
 
 
 <img src='https://i.imgur.com/H8GLn5g.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/gFpQPM0.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 
 
 
