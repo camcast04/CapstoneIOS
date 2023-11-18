@@ -33,15 +33,14 @@ Product Spec
 
 - [] As a user, I want to create an account so that I can save my progress and have a personalized experience.
 - [] As a user, I want to be able to edit my profile so that I can update my personal information.
-- [] Photo Upload and Cataloging
+  
+***** Photo Upload and Cataloging
 
-- [] As a user, I want to upload photos of plants, animals, and bugs so that I can contribute to the biodiversity database.
 - [] As a user, I want to view my uploaded photos in a personalized gallery so that I can keep track of my discoveries.
 
 ***** Map Integration and Location Tagging
 
-- [] As a user, I want to tag the location of my sightings so that I can contribute to the map of local biodiversity.
-- [] As a user, I want to view a map of sightings to explore what others have discovered.
+- [] As a user, I want to view a map of sightings to explore what I have discovered.
 
 ***** Basic Identification and Information Display
 
@@ -61,12 +60,6 @@ Product Spec
 ***** Advanced Identification Features
 
 - [] As a user, I want the app to automatically identify the species in my photos using AI to get instant information about my discoveries.
-
-***** Personalized Notifications
-
-- [] As a user, I want to receive notifications about new challenges or when a species I'm interested in is spotted nearby.
-Educational Content and Tips
-
 - [] As a user, I want to access educational content about wildlife and environmental conservation to enhance my knowledge.
 
 ***** Social Media Integration
