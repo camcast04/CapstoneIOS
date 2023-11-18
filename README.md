@@ -120,7 +120,7 @@ Flow Navigation (Screen to Screen)
 Schema
 
 
-<img src='https://i.imgur.com/YUZzcqT.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/H8GLn5g.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 
