@@ -31,7 +31,7 @@ Product Spec
 
 ***** User Account Creation and Management
 
-- [] As a user, I want to create an account so that I can save my progress and have a personalized experience.
+- [x] As a user, I want to sign into my account so that I can save my progress and have a personalized experience.
 - [] As a user, I want to be able to edit my profile so that I can update my personal information.
   
 ***** Photo Upload and Cataloging
@@ -40,7 +40,7 @@ Product Spec
 
 ***** Map Integration and Location Tagging
 
-- [] As a user, I want to view a map of sightings to explore what I have discovered.
+- [x] As a user, I want to view a map of sightings to explore what I have discovered.
 
 ***** Basic Identification and Information Display
 
@@ -48,7 +48,7 @@ Product Spec
 
 ***** Gamification: Challenges and Achievements
 
-- [] As a user, I want to participate in challenges and earn achievements to make my exploration more engaging and rewarding.
+- [x] As a user, I want to participate in challenges and earn achievements to make my exploration more engaging and rewarding.
   
 **Optional Nice-to-have Stories**
 
