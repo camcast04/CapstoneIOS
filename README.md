@@ -116,10 +116,11 @@ Flow Navigation (Screen to Screen)
 
 [BONUS] Digital Wireframes & Mockups
 [BONUS] Interactive Prototype
-Schema
-[This section will be completed in Unit 9]
 
-<img src="https://i.imgur.com/YUZzcqT.gif" width=600> 
+Schema
+
+![Alt Text](https://i.imgur.com/YUZzcqT.gif)
+
 
 Models
 [Add table of models]
