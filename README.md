@@ -119,7 +119,9 @@ Flow Navigation (Screen to Screen)
 
 Schema
 
-![Alt Text](https://i.imgur.com/YUZzcqT.gif)
+
+<img src='https://i.imgur.com/YUZzcqT.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 
 
 Models
