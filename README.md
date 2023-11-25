@@ -42,10 +42,6 @@ Product Spec
 
 - [x] As a user, I want to view a map of sightings to explore what I have discovered.
 
-***** Basic Identification and Information Display
-
-- [] As a user, I want to get basic information or identification suggestions for my uploaded photos so that I can learn about the flora and fauna I’ve found.
-
 ***** Gamification: Challenges and Achievements
 
 - [x] As a user, I want to participate in challenges and earn achievements to make my exploration more engaging and rewarding.
